@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_gittest23.admin" name="x_snc_gittest23.admin">ecaeba6d878d0e541db8ece70cbb35c6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>sarathy.rambha.snf.us@snc</sys_created_by>
+        <sys_created_on>2024-03-20 03:14:15</sys_created_on>
+        <sys_id>68aeba6d878d0e541db8ece70cbb35c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecaeba6d878d0e541db8ece70cbb35c6</sys_name>
+        <sys_package display_value="Gittest23" source="x_snc_gittest23">64aeba6d878d0e541db8ece70cbb3576</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gittest23">64aeba6d878d0e541db8ece70cbb3576</sys_scope>
+        <sys_update_name>sys_embedded_help_role_68aeba6d878d0e541db8ece70cbb35c8</sys_update_name>
+        <sys_updated_by>sarathy.rambha.snf.us@snc</sys_updated_by>
+        <sys_updated_on>2024-03-20 03:14:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
